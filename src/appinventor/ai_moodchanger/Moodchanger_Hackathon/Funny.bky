@@ -1,0 +1,166 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="U![L2)Sa9@HfYtKS}gn/" x="-537" y="-369">
+    <mutation component_type="Button" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="gXI2-%9EpcewFR?.cAp~">
+        <value name="SCREEN">
+          <block type="text" id="1*KuOo~x?dpU|2|:UO|4">
+            <field name="TEXT">Main_Page</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="R@bHx=Au)m$.U*nM0kY~" x="-556" y="-227">
+    <mutation component_type="Button" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="component_set_get" id="A^-dcbJ`fZDGmtc5vOS{">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+        <field name="COMPONENT_SELECTOR">Label1</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="lists_pick_random_item" id="U3*zp7y|?uTfS21M^b:p">
+            <value name="LIST">
+              <block type="lists_create_with" id="^zJ9lO60tS!m]4cs*xxH">
+                <mutation items="26"></mutation>
+                <value name="ADD0">
+                  <block type="text" id="5;Z#.NP|V!maORa%Iag%">
+                    <field name="TEXT">"No man has a good enough memory to be a successful liar." - Abraham Lincoln</field>
+                  </block>
+                </value>
+                <value name="ADD1">
+                  <block type="text" id="?t]F5`$yf[wlJRKz9UN5">
+                    <field name="TEXT">“I've never worked out what the moral of Humpty Dumpty is. I can only think of: Don't sit on a wall, if you're an egg.” - Rick Gervais</field>
+                  </block>
+                </value>
+                <value name="ADD2">
+                  <block type="text" id="A,hcypBX::1^tXU.%XKx">
+                    <field name="TEXT">"Homework: Because 7 hours of school isn't already enough" - Homework: Because 7 Hours of School Isn' t Already Enough </field>
+                  </block>
+                </value>
+                <value name="ADD3">
+                  <block type="text" id="T283szhGMa(d*72onWH;">
+                    <field name="TEXT">I do not think my phone works, I pressed the home button and I am still at work.</field>
+                  </block>
+                </value>
+                <value name="ADD4">
+                  <block type="text" id="Hq:_AruSDN8wgZAAU?^A">
+                    <field name="TEXT">“Never argue with stupid people, they will drag you down to their level and then beat you with experience.” - Mark Twain</field>
+                  </block>
+                </value>
+                <value name="ADD5">
+                  <block type="text" id="YIuynKNlw*NB|zE%s3=!">
+                    <field name="TEXT">My goal this weekend is to move enough so people think, I am not dead.</field>
+                  </block>
+                </value>
+                <value name="ADD6">
+                  <block type="text" id="n%%imZ8q29+MRwn+nhA]">
+                    <field name="TEXT">A police officer came to my house and asked me where I was between 5 and 6. He seemed irritated when I answered "Kindergarten" - </field>
+                  </block>
+                </value>
+                <value name="ADD7">
+                  <block type="text" id="Wj;8v.Ffs~`AH+YycU?z">
+                    <field name="TEXT">Me. Mature. Ha. I still laugh when the ketchup bottle farts.</field>
+                  </block>
+                </value>
+                <value name="ADD8">
+                  <block type="text" id="OY*mf,-!WpSI]130n?CA">
+                    <field name="TEXT">“Before you judge a man, walk a mile in his shoes. After that who cares?... He's a mile away and you've got his shoes!”</field>
+                  </block>
+                </value>
+                <value name="ADD9">
+                  <block type="text" id="2OTg4TAdPgJhIpV)Fh]b">
+                    <field name="TEXT">Harry potter fans: I want to go to Hogwarts. Narnia fans: I want to go to Narnia. Hunger Games fans: Nope I am good.</field>
+                  </block>
+                </value>
+                <value name="ADD10">
+                  <block type="text" id=".$8@p@NBo}T-pzrijD${">
+                    <field name="TEXT">When somebody told me I lived in a fantasy land, I nearly fell of my unicorn.</field>
+                  </block>
+                </value>
+                <value name="ADD11">
+                  <block type="text" id="T_OAiiY{qf]88+A-2/xL">
+                    <field name="TEXT">Dear math, Please grow up and solve your own problems,I am getting tired of solving them.</field>
+                  </block>
+                </value>
+                <value name="ADD12">
+                  <block type="text" id="ZC~VkL6j7%*rP+:3HYun">
+                    <field name="TEXT">When you are wearing Nikes and you realize I can’t do this.</field>
+                  </block>
+                </value>
+                <value name="ADD13">
+                  <block type="text" id="+c#a;WYK4PSj$PMLZO|9">
+                    <field name="TEXT">I ate salad for dinner. Mostly croutons and tomatoes. Actually, it was one big crouton with tomato sauce. And cheese. FINE, it was pizza.</field>
+                  </block>
+                </value>
+                <value name="ADD14">
+                  <block type="text" id="FA]yUrAH#Fkn,Gb-!^us">
+                    <field name="TEXT">The human body is 90%, so we are basically cucumbers with anxiety.</field>
+                  </block>
+                </value>
+                <value name="ADD15">
+                  <block type="text" id="v?wV:NKkki%3NsXL;JXS">
+                    <field name="TEXT">“Age is something that doesn’t matter, unless you are a cheese.” - Luis Bunuel</field>
+                  </block>
+                </value>
+                <value name="ADD16">
+                  <block type="text" id="f}(OW~m~!s#`;.P:0`_V">
+                    <field name="TEXT">When I call my parents and they don’t pick up, Fine. They call I do not pick up, Welcome to world war III</field>
+                  </block>
+                </value>
+                <value name="ADD17">
+                  <block type="text" id="wX%e.H:1?qB:G3Xj0d7A">
+                    <field name="TEXT">“Light travels faster than sound. This is why some people appear bright until you hear them speak.”</field>
+                  </block>
+                </value>
+                <value name="ADD18">
+                  <block type="text" id="@)QKj/aL|NH),L4JYVNZ">
+                    <field name="TEXT">If plan A fails remember there are still 25 letters left.</field>
+                  </block>
+                </value>
+                <value name="ADD19">
+                  <block type="text" id="fQ+bhi7tK75DC^erng6%">
+                    <field name="TEXT">I have enough money to live comfortably for the rest of my life… if I die next Thursday.</field>
+                  </block>
+                </value>
+                <value name="ADD20">
+                  <block type="text" id="/)9f$P$qujRNEvhSu)yX">
+                    <field name="TEXT">Raisin cookies that look like chocolate chip cookies are the reason I have trust issues.  </field>
+                  </block>
+                </value>
+                <value name="ADD21">
+                  <block type="text" id="/FN6p/Y0XDPJ`1ON%(k0">
+                    <field name="TEXT">I can't take this long distance relationship anymore. FRIDGE, you are moving to my room.</field>
+                  </block>
+                </value>
+                <value name="ADD22">
+                  <block type="text" id="*FekHy2giMNcP`;-8z*A">
+                    <field name="TEXT">“My psychiatrist told me I was crazy and I said I want a second opinion. He said okay, you're ugly too.”</field>
+                  </block>
+                </value>
+                <value name="ADD23">
+                  <block type="text" id="ssNU9$YV)HqC(BSQ*EHq">
+                    <field name="TEXT">“I am so clever that sometimes I don't understand a single word of what I am saying.”</field>
+                  </block>
+                </value>
+                <value name="ADD24">
+                  <block type="text" id="iIy3:5aR/-nZ;-mxCa+(">
+                    <field name="TEXT">I walk around like everything is fine but, deep down in my shoe my sock is sliding off.</field>
+                  </block>
+                </value>
+                <value name="ADD25">
+                  <block type="text" id="chylF~9EU~eFq{pu$#{2">
+                    <field name="TEXT">A cop pulled me over and said “ papers”, I said “ scissors, I win” , and drove off.</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="167" language-version="21"></yacodeblocks>
+</xml>

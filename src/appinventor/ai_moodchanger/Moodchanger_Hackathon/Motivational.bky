@@ -1,0 +1,141 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="A:=%|.]PbZ^^x]kqJy1V" x="-254" y="-369">
+    <mutation component_type="Button" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="vP_z8jyd(5U?gQ]Nf{.b">
+        <value name="SCREEN">
+          <block type="text" id="p0a5jQj)n3eQ+]m%PX!y">
+            <field name="TEXT">Main_Page</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="3bS4`E2_/eClWdtm+1h%" x="-270" y="-177">
+    <mutation component_type="Button" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="component_set_get" id="(Qk`L}hsFf-NScr(6]7d">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+        <field name="COMPONENT_SELECTOR">Label1</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="lists_pick_random_item" id="NQo}B$3/S3*_.3:._M=7">
+            <value name="LIST">
+              <block type="lists_create_with" id="J$|Eu#2E]V}G@qMHj~F`">
+                <mutation items="21"></mutation>
+                <value name="ADD0">
+                  <block type="text" id="BVpF)]bh%g^hGZR3%vk2">
+                    <field name="TEXT">“Expect problems and eat them for breakfast.” - Alfred A. Montepare</field>
+                  </block>
+                </value>
+                <value name="ADD1">
+                  <block type="text" id="C(x77lSYOdL6_Bx/l?qo">
+                    <field name="TEXT">“Obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it.” - Michael Jordan</field>
+                  </block>
+                </value>
+                <value name="ADD2">
+                  <block type="text" id="Nm2cL)YHTl$`0wY*O)97">
+                    <field name="TEXT">“Never confuse a single defeat with a final defeat.” - F. Scott Fitzgerald</field>
+                  </block>
+                </value>
+                <value name="ADD3">
+                  <block type="text" id="S`OruR?Z=DqzHS]ojZ0n">
+                    <field name="TEXT">“A river cuts through rock not because of its power, but because of its persistence.” - Jim Watkins</field>
+                  </block>
+                </value>
+                <value name="ADD4">
+                  <block type="text" id="BDM)ZWg@/H*2B6l`fB88">
+                    <field name="TEXT">“Tough times never last, but tough people do.” - Robert H. Schuller</field>
+                  </block>
+                </value>
+                <value name="ADD5">
+                  <block type="text" id="+X~1Rt}.$d{Pp7/S!]I-">
+                    <field name="TEXT">“Aim for the moon if you miss, you may hit a star.” - W. Clement Stone</field>
+                  </block>
+                </value>
+                <value name="ADD6">
+                  <block type="text" id="p?hmrQ]A2mbrLpO{MVdv">
+                    <field name="TEXT">“Don’t wait for the right opportunity, create it.” - George Bernard Shaw</field>
+                  </block>
+                </value>
+                <value name="ADD7">
+                  <block type="text" id="Er,;4uSrp1$^C)9_+47,">
+                    <field name="TEXT">“It always seems impossible until it’s done.” - Nelson Mandela</field>
+                  </block>
+                </value>
+                <value name="ADD8">
+                  <block type="text" id="#/cU[pBJ+1/T-S)*cWh|">
+                    <field name="TEXT">“Only I can change my life. No one can do it for me.” - Carol Burnett</field>
+                  </block>
+                </value>
+                <value name="ADD9">
+                  <block type="text" id="iP[IX1J7Le#1fFntPxR|">
+                    <field name="TEXT">“Make your life a masterpiece; imagine no limitation on what you can be, have or do.” -  Brian Tracy</field>
+                  </block>
+                </value>
+                <value name="ADD10">
+                  <block type="text" id="tN_|E4f(ucRHRHB}Cl$l">
+                    <field name="TEXT">“Too many of us are not living are dreams because we are living are fears.” - Les Brown</field>
+                  </block>
+                </value>
+                <value name="ADD11">
+                  <block type="text" id="C6`jJj9hTG-Vkt~2ghN.">
+                    <field name="TEXT">“Our lives end the day we become silent about things that matter.” - Martin Luther King Jr.</field>
+                  </block>
+                </value>
+                <value name="ADD12">
+                  <block type="text" id=".98^[TS2?%]b6fJ;4{Z4">
+                    <field name="TEXT">“Courage is the first of human qualities because it is the quality that guarantees all others.” - Winston Churchill</field>
+                  </block>
+                </value>
+                <value name="ADD13">
+                  <block type="text" id="bPs0;Y87OwXW@e=scKa_">
+                    <field name="TEXT">“Nothing is impossible, the word itself says ‘I’m possible!’’  —Audrey Hepburn</field>
+                  </block>
+                </value>
+                <value name="ADD14">
+                  <block type="text" id="V(h@QHv8=lDTPeLx~6L=">
+                    <field name="TEXT">“I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.” —Maya Angelou</field>
+                  </block>
+                </value>
+                <value name="ADD15">
+                  <block type="text" id="V3FR:O}CObc]4_v4J::g">
+                    <field name="TEXT">“Whether you think you can or you think you can’t, you’re right.”  —Henry Ford</field>
+                  </block>
+                </value>
+                <value name="ADD16">
+                  <block type="text" id="x}+3*j~ux0a@}HlwYxCY">
+                    <field name="TEXT">“Perfection is not attainable, but if we chase perfection we can catch excellence.” —Vince Lombardi</field>
+                  </block>
+                </value>
+                <value name="ADD17">
+                  <block type="text" id="lox_]EXr#;pqGvI_zK04">
+                    <field name="TEXT">“Life is 10% what happens to me and 90% of how I react to it.” —Charles Swindoll</field>
+                  </block>
+                </value>
+                <value name="ADD18">
+                  <block type="text" id="nWKXvuszVyUF,]z#ag#w">
+                    <field name="TEXT">“Start by doing the necessary; then do what’s possible; suddenly you’re doing the impossible.” - Francis of Assisi</field>
+                  </block>
+                </value>
+                <value name="ADD19">
+                  <block type="text" id="u=O}(`{Gl26[D][Cg`ZP">
+                    <field name="TEXT">“Don’t worry about failures, worry about the chances you miss when you don’t even try.” - Jack Canfield</field>
+                  </block>
+                </value>
+                <value name="ADD20">
+                  <block type="text" id="LgV}Azqcdq~v6drQH9Be">
+                    <field name="TEXT">“With the right kind of coaching and determination, you can accomplish almost anything.” - Reese Witherson</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="167" language-version="21"></yacodeblocks>
+</xml>

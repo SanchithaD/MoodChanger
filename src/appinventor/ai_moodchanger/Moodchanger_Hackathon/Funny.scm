@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"167","Source":"Form","Properties":{"$Name":"Funny","$Type":"Form","$Version":"23","AccentColor":"&HFF00FFFF","AppName":"Shivaani_Hackathon2","BackgroundColor":"&HFF00FFFF","Title":"Funny","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"4","FontBold":"True","FontSize":"28","FontTypeface":"2","Height":"-2","Width":"-2","Text":"\u201cI've never worked out what the moral of Humpty Dumpty is. I can only think of: Don't sit on a wall, if you're an egg.\u201d","TextAlignment":"1","Uuid":"1852939775"},{"$Name":"Button1","$Type":"Button","$Version":"6","BackgroundColor":"&HFFFF0000","FontBold":"True","FontSize":"20","FontTypeface":"2","Width":"-2","Text":"Next","Uuid":"-1210529148"},{"$Name":"Button2","$Type":"Button","$Version":"6","BackgroundColor":"&HFFFF0000","FontBold":"True","FontSize":"20.0","FontTypeface":"2","Width":"-2","Text":"Select another category","Uuid":"304051179"}]}}
+|#

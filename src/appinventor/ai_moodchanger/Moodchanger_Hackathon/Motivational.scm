@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"167","Source":"Form","Properties":{"$Name":"Motivational","$Type":"Form","$Version":"23","AccentColor":"&HFF00FFFF","AppName":"Shivaani_Hackathon2","BackgroundColor":"&HFF00FF00","Title":"Motivational","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"4","FontBold":"True","FontSize":"28","FontTypeface":"2","Height":"-2","Width":"-2","Text":"  \u201cIt always seems impossible until it\u2019s done.\u201d - Nelson Mandela","TextAlignment":"1","Uuid":"157977547"},{"$Name":"Button2","$Type":"Button","$Version":"6","BackgroundColor":"&HFF00FFFF","FontBold":"True","FontSize":"20","FontTypeface":"2","Width":"-2","Text":"Next","Uuid":"797933868"},{"$Name":"Button1","$Type":"Button","$Version":"6","BackgroundColor":"&HFF00FFFF","FontBold":"True","FontSize":"20","FontTypeface":"2","Width":"-2","Text":"Select a new category","Uuid":"1736128485"}]}}
+|#

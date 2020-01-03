@@ -1,0 +1,55 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="{q}6d@%inC(fNjX9ae1a" x="-311" y="-341">
+    <mutation component_type="Button" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="+-6kqY{vTjT19MFx*FOa">
+        <value name="SCREEN">
+          <block type="text" id="1.Q_Ap7az=eNP2dDOH*i">
+            <field name="TEXT">Screen1</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="zwjGCTND$}-c.PJ:oFd~" x="-452" y="-236">
+    <mutation component_type="Button" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id=",L6P!x2Eeq^#oebrC;pr">
+        <value name="SCREEN">
+          <block type="text" id="XGm(#D|dlyGMcZ,!]hGO">
+            <field name="TEXT">Motivational</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="{)kd{`O1_@V(Z^uCHQ]`" x="-348" y="-117">
+    <mutation component_type="Button" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id=",/r]LhhGl^IK[eV,GX*O">
+        <value name="SCREEN">
+          <block type="text" id="_9]7iMp,$V3JccH(;?O1">
+            <field name="TEXT">Funny</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id=",NL0XCL5*hEJ|AM`3)06" x="-121" y="-33">
+    <mutation component_type="Button" instance_name="Button4" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button4</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="(*i%@+6QBSlT%eUzv+0L">
+        <value name="SCREEN">
+          <block type="text" id=",;},9:#fy*Z`y~Fo0FE1">
+            <field name="TEXT">Strange_but_True</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="167" language-version="21"></yacodeblocks>
+</xml>

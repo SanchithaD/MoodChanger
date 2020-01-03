@@ -1,0 +1,181 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id=";N8Bw?wmXk6V5L{{9[T." x="-534" y="-441">
+    <mutation component_type="Button" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="CHxUxoqQfxv+fS]b*D1|">
+        <value name="SCREEN">
+          <block type="text" id="}tDVT)8W;#]kdSn)~t(:">
+            <field name="TEXT">Main_Page</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="EQX9Zp*wy2BfESj}_M]0" x="-504" y="-220">
+    <mutation component_type="Button" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="component_set_get" id="0Ft=D~lf*6=+s78Iw;-N">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+        <field name="COMPONENT_SELECTOR">Label1</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="lists_pick_random_item" id="FzHl@4v(6i71c}YE3~U`">
+            <value name="LIST">
+              <block type="lists_create_with" id="R*Ri3b$d:_a_@_ln+UVY">
+                <mutation items="29"></mutation>
+                <value name="ADD0">
+                  <block type="text" id="r;kV,[Rni#~o]s?h#RCl">
+                    <field name="TEXT"> Approximately 75% of human waste is made of water.</field>
+                  </block>
+                </value>
+                <value name="ADD1">
+                  <block type="text" id="bZ)letPmp;(TSGV#uyzQ">
+                    <field name="TEXT">Earwax production is necessary for good ear health.</field>
+                  </block>
+                </value>
+                <value name="ADD2">
+                  <block type="text" id="1pNCH#qTdZr,~^7pSmG4">
+                    <field name="TEXT"> Babies are always born with blue eyes. The melanin in a newborn’s eyes often needs time after birth to be fully deposited or to be darkened by exposure to ultraviolet light, later revealing the baby’s true eye color.</field>
+                  </block>
+                </value>
+                <value name="ADD3">
+                  <block type="text" id="{y}wGjm*iP6-AR[Z??Te">
+                    <field name="TEXT">Every human spent about half an hour as a single cell.</field>
+                  </block>
+                </value>
+                <value name="ADD4">
+                  <block type="text" id="YJo#O_(43u;*+aY{;6ST">
+                    <field name="TEXT"> After eating too much, your hearing is less sharp.</field>
+                  </block>
+                </value>
+                <value name="ADD5">
+                  <block type="text" id="9?(pq~kG)X(wyl1@^J^R">
+                    <field name="TEXT">Women are born better smellers than men and remain better smellers over life.</field>
+                  </block>
+                </value>
+                <value name="ADD6">
+                  <block type="text" id="]f%vTrmHGSnWSOHh})^:">
+                    <field name="TEXT"> By 60 years of age, 60-percent of men and 40-percent of women will snore.</field>
+                  </block>
+                </value>
+                <value name="ADD7">
+                  <block type="text" id="6[4ZE!59nP[)4T[9YKfb">
+                    <field name="TEXT">Monday is the day of the week when the risk of heart attack is greatest. </field>
+                  </block>
+                </value>
+                <value name="ADD8">
+                  <block type="text" id="p.hsq(*Mm%3W`N:|ZVc%">
+                    <field name="TEXT"> Provided there is water, the average human could survive a month to two months without food depending on their body fat and other factors.</field>
+                  </block>
+                </value>
+                <value name="ADD9">
+                  <block type="text" id="R^_K_:[F*5LnLWXp)ZFw">
+                    <field name="TEXT"> Over 90% of diseases are caused or complicated by stress.</field>
+                  </block>
+                </value>
+                <value name="ADD10">
+                  <block type="text" id="K?Gen%ToV8rq-zB|GJ1u">
+                    <field name="TEXT"> We are about 1 cm taller in the morning than in the evening.</field>
+                  </block>
+                </value>
+                <value name="ADD11">
+                  <block type="text" id="JhIc)zXBr=M`0r3q!|EA">
+                    <field name="TEXT">It takes twice as long to lose new muscle if you stop working out than it did to gain it. </field>
+                  </block>
+                </value>
+                <value name="ADD12">
+                  <block type="text" id="to^~)uSScwm|eyWGr*4=">
+                    <field name="TEXT">It is not possible to tickle yourself. Even the most ticklish among us do not have the ability to tickle ourselves.</field>
+                  </block>
+                </value>
+                <value name="ADD13">
+                  <block type="text" id="5kKiYpS@)u0dIwWq$;hS">
+                    <field name="TEXT">Cockroaches can live without their heads until they die of hunger.</field>
+                  </block>
+                </value>
+                <value name="ADD14">
+                  <block type="text" id="6#UjS6=pDh@wgU}[ffRr">
+                    <field name="TEXT">People spent more time sitting on the toilet each week than exercising. Moreover, we end up with 1.4 years on the toilet during a lifetime.</field>
+                  </block>
+                </value>
+                <value name="ADD15">
+                  <block type="text" id="hQ}CR_mwh#.D/7#m=:hR">
+                    <field name="TEXT">Bill Clinton sent a total of 2 emails during his presidency!</field>
+                  </block>
+                </value>
+                <value name="ADD16">
+                  <block type="text" id="KvmfZ7s_DJ7w8dFd$]u*">
+                    <field name="TEXT">The human nose can remember up to 50,000 scents!</field>
+                  </block>
+                </value>
+                <value name="ADD17">
+                  <block type="text" id="3QWIc~,g)]YCzFt:?T)[">
+                    <field name="TEXT">People with higher number of moles tend to live longer than people with lesser number of moles.</field>
+                  </block>
+                </value>
+                <value name="ADD18">
+                  <block type="text" id="M(ORm~p60nOz.9G`q2YV">
+                    <field name="TEXT"> It cost 7 million dollars to build the Titanic and 200 million to make a film about it.</field>
+                  </block>
+                </value>
+                <value name="ADD19">
+                  <block type="text" id="tbQjdA[+`v3V,_sykm*Y">
+                    <field name="TEXT">Thinking about your muscles can make you stronger.</field>
+                  </block>
+                </value>
+                <value name="ADD20">
+                  <block type="text" id="Ahf5AsWA^#`.b|`1s/PQ">
+                    <field name="TEXT">Grapefruit scent will make middle aged women appear six years younger to men.</field>
+                  </block>
+                </value>
+                <value name="ADD21">
+                  <block type="text" id="0WiGQe05dPF5ttLqZ|)T">
+                    <field name="TEXT">The world’s youngest parents were 8 and 9 and lived in China in 1910.</field>
+                  </block>
+                </value>
+                <value name="ADD22">
+                  <block type="text" id="z*sDdCFsZN-2LL~uMEHD">
+                    <field name="TEXT">The colder the room you sleep in, the better the chances are that you’ll have a bad dream.</field>
+                  </block>
+                </value>
+                <value name="ADD23">
+                  <block type="text" id="a%crv|F(wJ23n$pq*_?u">
+                    <field name="TEXT">There are more people alive today than have ever died.</field>
+                  </block>
+                </value>
+                <value name="ADD24">
+                  <block type="text" id="^V)okkuZj]_ZM9f_NUe@">
+                    <field name="TEXT">Women’s hair is about half the diameter of men’s hair</field>
+                  </block>
+                </value>
+                <value name="ADD25">
+                  <block type="text" id="9O(.NwAXnsS6|jB/u;%R">
+                    <field name="TEXT">The lifespan of a human hair is 3 to 7 years on average.</field>
+                  </block>
+                </value>
+                <value name="ADD26">
+                  <block type="text" id="C{cJwIR@1$c|{m.P^@*]">
+                    <field name="TEXT">Human hair is virtually indestructible.</field>
+                  </block>
+                </value>
+                <value name="ADD27">
+                  <block type="text" id=",YYT$;j^C??J7=7w$r,B">
+                    <field name="TEXT"> The acid in your stomach is strong enough to dissolve razor blades. </field>
+                  </block>
+                </value>
+                <value name="ADD28">
+                  <block type="text" id="rrj8uF^IwikKeEXeBDPq">
+                    <field name="TEXT"> Sneezes regularly exceed 100 mph.</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="167" language-version="21"></yacodeblocks>
+</xml>

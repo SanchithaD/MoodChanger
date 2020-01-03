@@ -1,0 +1,186 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="wqtz!%{m!hH4VsqW-.!(" x="179" y="-95">
+    <mutation component_type="Button" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="Xt-~AK+Ig$Wl2(f.fcjl">
+        <value name="SCREEN">
+          <block type="text" id="!EwhX|}i^[:kuj-T|V?s">
+            <field name="TEXT">Main_Page</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="8rq{}lEQErX]f6|#V%1b" x="0" y="0">
+    <mutation component_type="Button" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="component_set_get" id="Bt8FHb8G,uPQ5mnFyKEG">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+        <field name="COMPONENT_SELECTOR">Label1</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="lists_pick_random_item" id="|tCpK%AOHH@BtcQkU=UF">
+            <value name="LIST">
+              <block type="lists_create_with" id="[gEYkC8sI/6HLpGYmg;2">
+                <mutation items="30"></mutation>
+                <value name="ADD0">
+                  <block type="text" id="YsMx@Vt:H}i#k{G9e_vb">
+                    <field name="TEXT">“Don't cry because it's over, smile because it happened.” ― Dr. Seuss</field>
+                  </block>
+                </value>
+                <value name="ADD1">
+                  <block type="text" id="OP-x%_L;rP1|Xxa!C.)m">
+                    <field name="TEXT">“Folks are usually about as happy as they make their minds up to be.” ― Abraham Lincoln</field>
+                  </block>
+                </value>
+                <value name="ADD2">
+                  <block type="text" id="@2;.`BjQu`UR=R0b7[us">
+                    <field name="TEXT">“There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.” ― Stephen Chbosky, The Perks of Being a Wallflower</field>
+                  </block>
+                </value>
+                <value name="ADD3">
+                  <block type="text" id="c2@!.Jf@`YnPI^Ra#2]9">
+                    <field name="TEXT">“Count your age by friends, not years. Count your life by smiles, not tears.” ― John Lennon</field>
+                  </block>
+                </value>
+                <value name="ADD4">
+                  <block type="text" id="/k}WS!IShU(D:J2VRoK6">
+                    <field name="TEXT">“If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.” ― J.R.R. Tolkien</field>
+                  </block>
+                </value>
+                <value name="ADD5">
+                  <block type="text" id="^u(~^A!|](zqL76GUz~Y">
+                    <field name="TEXT">“The most important thing is to enjoy your life—to be happy—it's all that matters.” ― Audrey Hepburn</field>
+                  </block>
+                </value>
+                <value name="ADD6">
+                  <block type="text" id="%.p-/9^LOZlPdEI{=1!K">
+                    <field name="TEXT">“No medicine cures what happiness cannot.” ― Gabriel García Márquez</field>
+                  </block>
+                </value>
+                <value name="ADD7">
+                  <block type="text" id="Rz#=Q0t,pQJuzn6zlpb-">
+                    <field name="TEXT">“I'm happy. Which often looks like crazy.” ― David Henry Hwang, M. Butterfly</field>
+                  </block>
+                </value>
+                <value name="ADD8">
+                  <block type="text" id="pFK6:]f@K=:i)(,_A(G[">
+                    <field name="TEXT">“The best way to cheer yourself is to try to cheer someone else up.” ― Mark Twain</field>
+                  </block>
+                </value>
+                <value name="ADD9">
+                  <block type="text" id=":a.30;UWC(.{85-XKJp0">
+                    <field name="TEXT">“I must learn to be content with being happier than I deserve.” ― Jane Austen, Pride and Prejudice</field>
+                  </block>
+                </value>
+                <value name="ADD10">
+                  <block type="text" id="iO{bQuj:@7x;MpTfeehW">
+                    <field name="TEXT">“I've got nothing to do today but smile.”  ― Paul Simon</field>
+                  </block>
+                </value>
+                <value name="ADD11">
+                  <block type="text" id="`CsYP$Aip!M[o3xZgHTQ">
+                    <field name="TEXT">“Happiness quite unshared can scarcely be called happiness; it has no taste.” ― Charlotte Brontë</field>
+                  </block>
+                </value>
+                <value name="ADD12">
+                  <block type="text" id="J[Tn%}(2T`l0uM*|c{l9">
+                    <field name="TEXT">“Happiness is not the absence of problems, it's the ability to deal with them.” ― Steve Maraboli, Life, the Truth, and Being Free</field>
+                  </block>
+                </value>
+                <value name="ADD13">
+                  <block type="text" id="7!`%F]%9jntlyKk/^oi$">
+                    <field name="TEXT">“I'd far rather be happy than right any day.” ― Douglas Adams, The Hitchhiker's Guide to the Galaxy</field>
+                  </block>
+                </value>
+                <value name="ADD14">
+                  <block type="text" id="p9ntWf|0NRB`0Xdg}foP">
+                    <field name="TEXT">“Take responsibility of your own happiness, never put it in other people’s hands.” ― Roy T. Bennett, The Light in the Heart</field>
+                  </block>
+                </value>
+                <value name="ADD15">
+                  <block type="text" id="emMqktf+w*L461I8F/2m">
+                    <field name="TEXT">“There is some kind of a sweet innocence in being human- in not having to be just happy or just sad- in the nature of being able to be both broken and whole, at the same time.” ― C. JoyBell C.</field>
+                  </block>
+                </value>
+                <value name="ADD16">
+                  <block type="text" id="R(@]h%hJt|ZKCA[RG4tY">
+                    <field name="TEXT">“Happiness is an accident of nature, a beautiful and flawless aberration.” ― Pat Conroy, The Lords of Discipline</field>
+                  </block>
+                </value>
+                <value name="ADD17">
+                  <block type="text" id="V!DlbQWw!V$b5gFJ43BT">
+                    <field name="TEXT">“Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.” ― Roy T. Bennett</field>
+                  </block>
+                </value>
+                <value name="ADD18">
+                  <block type="text" id="%v@(9.YN[?Q@U|(;B3-n">
+                    <field name="TEXT">“The more you feed your mind with positive thoughts, the more you can attract great things into your life.” ― Roy T. Bennett, The Light in the Heart</field>
+                  </block>
+                </value>
+                <value name="ADD19">
+                  <block type="text" id="zld@lPVCj*CFn0I2sH5q">
+                    <field name="TEXT">“Those who are not looking for happiness are the most likely to find it, because those who are searching forget that the surest way to be happy is to seek happiness for others.” ― Martin Luther King Jr.</field>
+                  </block>
+                </value>
+                <value name="ADD20">
+                  <block type="text" id=":@Q%QMdH9zGtis:#9IgL">
+                    <field name="TEXT">“Success is getting what you want, happiness is wanting what you get”  ― W.P. Kinsella</field>
+                  </block>
+                </value>
+                <value name="ADD21">
+                  <block type="text" id="Qwt@@gPAN}K}gae=P+cq">
+                    <field name="TEXT">“Stop comparing yourself to other people, just choose to be happy and live your own life.” ― Roy T. Bennett, The Light in the Heart</field>
+                  </block>
+                </value>
+                <value name="ADD22">
+                  <block type="text" id="LB,2;;C}z7z@^F%=;pWO">
+                    <field name="TEXT">“Do not set aside your happiness. Do not wait to be happy in the future. The best time to be happy is always now.” ― Roy T. Bennett</field>
+                  </block>
+                </value>
+                <value name="ADD23">
+                  <block type="text" id="3*%344db0rd[r.|b8L}U">
+                    <field name="TEXT">“The secret of happiness is freedom, the secret of freedom is courage.” ― Carrie Jones, Need</field>
+                  </block>
+                </value>
+                <value name="ADD24">
+                  <block type="text" id="iwSRx7.]k?x|!I3HM7d[">
+                    <field name="TEXT">“I think happiness is what makes you pretty. Period. Happy people are beautiful. They become like a mirror and they reflect that happiness.” ― Drew Barrymore</field>
+                  </block>
+                </value>
+                <value name="ADD25">
+                  <block type="text" id="e%K]z%g(+B(pN]F$G]ID">
+                    <field name="TEXT">“Sanity and happiness are an impossible combination.”  ― Mark Twain</field>
+                  </block>
+                </value>
+                <value name="ADD26">
+                  <block type="text" id="3z_p4}eUt$-4W!8u9w=V">
+                    <field name="TEXT">“Happiness is a warm puppy.”  ― Charles M. Schulz</field>
+                  </block>
+                </value>
+                <value name="ADD27">
+                  <block type="text" id="Q[RduyJD[Q-BXa_[x0_,">
+                    <field name="TEXT">“You cannot protect yourself from sadness without protecting yourself from happiness.”  ― Jonathan Safran Foer</field>
+                  </block>
+                </value>
+                <value name="ADD28">
+                  <block type="text" id="qdea-AzDr~eUKCE^HCC@">
+                    <field name="TEXT">“The only way to find true happiness is to risk being completely cut open.”  ― Chuck Palahniuk, Invisible Monsters</field>
+                  </block>
+                </value>
+                <value name="ADD29">
+                  <block type="text" id=";YtrQn?vw[`g{!Qo*+cI">
+                    <field name="TEXT">“Happiness is having a large, loving, caring, close-knit family in another city.”  ― George Burns</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="167" language-version="21"></yacodeblocks>
+</xml>

@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"167","Source":"Form","Properties":{"$Name":"Strange_but_True","$Type":"Form","$Version":"23","AccentColor":"&HFF00FFFF","AppName":"Shivaani_Hackathon2","BackgroundColor":"&HFF00FFFF","Title":"Strange_but_True","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"4","FontBold":"True","FontSize":"28","FontTypeface":"2","Height":"-2","Width":"-2","Text":" Approximately 75% of human waste is made of water.","TextAlignment":"1","Uuid":"1942951937"},{"$Name":"Button1","$Type":"Button","$Version":"6","BackgroundColor":"&HFF00FF00","FontBold":"True","FontSize":"20","FontTypeface":"2","Width":"-2","Text":"Next","Uuid":"655600678"},{"$Name":"Button2","$Type":"Button","$Version":"6","BackgroundColor":"&HFF00FF00","FontBold":"True","FontSize":"20","FontTypeface":"2","Width":"-2","Text":"Select a new category","Uuid":"-129603951"}]}}
+|#
